@@ -1,9 +1,7 @@
 import java.util.concurrent.Semaphore;
 
 import javax.swing.event.EventListenerList;
-/*Tom Kondat 318275591
-David Sharabi 315313981
-*/
+
 public class Car extends Thread {
 
 

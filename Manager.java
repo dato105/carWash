@@ -1,6 +1,4 @@
-/*Tom Kondat 318275591
-David Sharabi 315313981
- */
+
 import java.util.Scanner;
 import java.util.concurrent.Executor;
 import java.util.concurrent.ExecutorService;

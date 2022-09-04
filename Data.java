@@ -1,6 +1,4 @@
-/*Tom Kondat 318275591
-David Sharabi 315313981
-*/
+
 public class Data {
 
 	private String message;

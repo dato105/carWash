@@ -1,7 +1,5 @@
 import java.util.EventObject;
-/*Tom Kondat 318275591
-David Sharabi 315313981
-*/
+
 public class CarEvent extends EventObject {
 
 

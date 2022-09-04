@@ -1,7 +1,5 @@
 import java.util.Scanner;
-/*Tom Kondat 318275591
-David Sharabi 315313981
-*/
+
 public class Runner {
 	public static Scanner sc = new Scanner(System.in);
 	public static void main(String[] args) {
